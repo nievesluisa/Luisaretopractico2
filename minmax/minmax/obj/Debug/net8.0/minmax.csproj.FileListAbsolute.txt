@@ -1,0 +1,14 @@
+C:\Users\Lisber Perez\Desktop\minmax\minmax\bin\Debug\net8.0\minmax.exe
+C:\Users\Lisber Perez\Desktop\minmax\minmax\bin\Debug\net8.0\minmax.deps.json
+C:\Users\Lisber Perez\Desktop\minmax\minmax\bin\Debug\net8.0\minmax.runtimeconfig.json
+C:\Users\Lisber Perez\Desktop\minmax\minmax\bin\Debug\net8.0\minmax.dll
+C:\Users\Lisber Perez\Desktop\minmax\minmax\bin\Debug\net8.0\minmax.pdb
+C:\Users\Lisber Perez\Desktop\minmax\minmax\obj\Debug\net8.0\minmax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lisber Perez\Desktop\minmax\minmax\obj\Debug\net8.0\minmax.AssemblyInfoInputs.cache
+C:\Users\Lisber Perez\Desktop\minmax\minmax\obj\Debug\net8.0\minmax.AssemblyInfo.cs
+C:\Users\Lisber Perez\Desktop\minmax\minmax\obj\Debug\net8.0\minmax.csproj.CoreCompileInputs.cache
+C:\Users\Lisber Perez\Desktop\minmax\minmax\obj\Debug\net8.0\minmax.dll
+C:\Users\Lisber Perez\Desktop\minmax\minmax\obj\Debug\net8.0\refint\minmax.dll
+C:\Users\Lisber Perez\Desktop\minmax\minmax\obj\Debug\net8.0\minmax.pdb
+C:\Users\Lisber Perez\Desktop\minmax\minmax\obj\Debug\net8.0\minmax.genruntimeconfig.cache
+C:\Users\Lisber Perez\Desktop\minmax\minmax\obj\Debug\net8.0\ref\minmax.dll

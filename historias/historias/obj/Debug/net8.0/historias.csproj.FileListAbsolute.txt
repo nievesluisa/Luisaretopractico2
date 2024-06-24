@@ -1,0 +1,14 @@
+C:\Users\Lisber Perez\Desktop\historias\historias\bin\Debug\net8.0\historias.exe
+C:\Users\Lisber Perez\Desktop\historias\historias\bin\Debug\net8.0\historias.deps.json
+C:\Users\Lisber Perez\Desktop\historias\historias\bin\Debug\net8.0\historias.runtimeconfig.json
+C:\Users\Lisber Perez\Desktop\historias\historias\bin\Debug\net8.0\historias.dll
+C:\Users\Lisber Perez\Desktop\historias\historias\bin\Debug\net8.0\historias.pdb
+C:\Users\Lisber Perez\Desktop\historias\historias\obj\Debug\net8.0\historias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lisber Perez\Desktop\historias\historias\obj\Debug\net8.0\historias.AssemblyInfoInputs.cache
+C:\Users\Lisber Perez\Desktop\historias\historias\obj\Debug\net8.0\historias.AssemblyInfo.cs
+C:\Users\Lisber Perez\Desktop\historias\historias\obj\Debug\net8.0\historias.csproj.CoreCompileInputs.cache
+C:\Users\Lisber Perez\Desktop\historias\historias\obj\Debug\net8.0\historias.dll
+C:\Users\Lisber Perez\Desktop\historias\historias\obj\Debug\net8.0\refint\historias.dll
+C:\Users\Lisber Perez\Desktop\historias\historias\obj\Debug\net8.0\historias.pdb
+C:\Users\Lisber Perez\Desktop\historias\historias\obj\Debug\net8.0\historias.genruntimeconfig.cache
+C:\Users\Lisber Perez\Desktop\historias\historias\obj\Debug\net8.0\ref\historias.dll
